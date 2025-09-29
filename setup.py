@@ -11,7 +11,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setuptools.setup(
     name='traducir',
-    version='0.0.2',
+    version='0.0.3',
     author='montoyamoraga',
     author_email='montoyamoraga@gmail.com',
     description='module for translating text',
